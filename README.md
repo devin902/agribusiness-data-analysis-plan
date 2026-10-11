@@ -9,7 +9,10 @@ A structured plan for collecting and analyzing publicly available agribusiness d
 - `data/clean/` - cleaned and merged, analysis-ready data
 - `notebooks/` - Jupyter/Colab notebooks for cleaning, EDA, and modeling
 - `outputs/` - charts, tables, and the final report
+## Documents
 
+- `docs/Agribusiness_Data_Collection_and_Analysis_Plan.docx` - plan for collecting and analyzing public agribusiness data
+- `docs/Data_Cleaning_and_Preprocessing_Strategy.docx` - strategy for cleaning and preprocessing a hypothetical agribusiness dataset
 ## Data sources (planned)
 
 Ministry of Agriculture and Farmers Welfare, data.gov.in, Agmarknet, FAOSTAT, World Bank commodity data, India Meteorological Department, and trade statistics from the Ministry of Commerce and UN Comtrade. See the plan for details.
